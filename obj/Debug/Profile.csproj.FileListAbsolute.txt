@@ -1,0 +1,66 @@
+E:\657224\Console Applications\Profile\Profile\bin\ApplicationInsights.config
+E:\657224\Console Applications\Profile\Profile\bin\roslyn\csc.exe
+E:\657224\Console Applications\Profile\Profile\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\657224\Console Applications\Profile\Profile\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\657224\Console Applications\Profile\Profile\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\657224\Console Applications\Profile\Profile\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\657224\Console Applications\Profile\Profile\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\657224\Console Applications\Profile\Profile\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\657224\Console Applications\Profile\Profile\bin\roslyn\System.Collections.Immutable.dll
+E:\657224\Console Applications\Profile\Profile\bin\roslyn\System.Reflection.Metadata.dll
+E:\657224\Console Applications\Profile\Profile\bin\roslyn\vbc.exe
+E:\657224\Console Applications\Profile\Profile\bin\roslyn\VBCSCompiler.exe
+E:\657224\Console Applications\Profile\Profile\bin\roslyn\VBCSCompiler.exe.config
+E:\657224\Console Applications\Profile\Profile\bin\Profile.dll.config
+E:\657224\Console Applications\Profile\Profile\bin\Profile.dll
+E:\657224\Console Applications\Profile\Profile\bin\Profile.pdb
+E:\657224\Console Applications\Profile\Profile\bin\Microsoft.AI.Agent.Intercept.dll
+E:\657224\Console Applications\Profile\Profile\bin\Microsoft.AI.DependencyCollector.dll
+E:\657224\Console Applications\Profile\Profile\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\657224\Console Applications\Profile\Profile\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\657224\Console Applications\Profile\Profile\bin\Microsoft.AI.Web.dll
+E:\657224\Console Applications\Profile\Profile\bin\Microsoft.AI.WindowsServer.dll
+E:\657224\Console Applications\Profile\Profile\bin\Microsoft.ApplicationInsights.dll
+E:\657224\Console Applications\Profile\Profile\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\657224\Console Applications\Profile\Profile\bin\Microsoft.AI.DependencyCollector.xml
+E:\657224\Console Applications\Profile\Profile\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\657224\Console Applications\Profile\Profile\bin\Microsoft.AI.Web.xml
+E:\657224\Console Applications\Profile\Profile\bin\Microsoft.AI.WindowsServer.xml
+E:\657224\Console Applications\Profile\Profile\bin\Microsoft.ApplicationInsights.xml
+E:\657224\Console Applications\Profile\Profile\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\657224\Console Applications\Profile\Profile\obj\Debug\Profile.csprojResolveAssemblyReference.cache
+E:\657224\Console Applications\Profile\Profile\obj\Debug\Profile.dll
+E:\657224\Console Applications\Profile\Profile\obj\Debug\Profile.pdb
+C:\Users\Abhinaba\Desktop\Profile\Profile\bin\ApplicationInsights.config
+C:\Users\Abhinaba\Desktop\Profile\Profile\bin\roslyn\csc.exe
+C:\Users\Abhinaba\Desktop\Profile\Profile\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Abhinaba\Desktop\Profile\Profile\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Abhinaba\Desktop\Profile\Profile\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Abhinaba\Desktop\Profile\Profile\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Abhinaba\Desktop\Profile\Profile\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Abhinaba\Desktop\Profile\Profile\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Abhinaba\Desktop\Profile\Profile\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Abhinaba\Desktop\Profile\Profile\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Abhinaba\Desktop\Profile\Profile\bin\roslyn\vbc.exe
+C:\Users\Abhinaba\Desktop\Profile\Profile\bin\roslyn\VBCSCompiler.exe
+C:\Users\Abhinaba\Desktop\Profile\Profile\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Abhinaba\Desktop\Profile\Profile\bin\Profile.dll.config
+C:\Users\Abhinaba\Desktop\Profile\Profile\bin\Profile.dll
+C:\Users\Abhinaba\Desktop\Profile\Profile\bin\Profile.pdb
+C:\Users\Abhinaba\Desktop\Profile\Profile\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Abhinaba\Desktop\Profile\Profile\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Abhinaba\Desktop\Profile\Profile\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Abhinaba\Desktop\Profile\Profile\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Abhinaba\Desktop\Profile\Profile\bin\Microsoft.AI.Web.dll
+C:\Users\Abhinaba\Desktop\Profile\Profile\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Abhinaba\Desktop\Profile\Profile\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Abhinaba\Desktop\Profile\Profile\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Abhinaba\Desktop\Profile\Profile\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Abhinaba\Desktop\Profile\Profile\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Abhinaba\Desktop\Profile\Profile\bin\Microsoft.AI.Web.xml
+C:\Users\Abhinaba\Desktop\Profile\Profile\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Abhinaba\Desktop\Profile\Profile\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Abhinaba\Desktop\Profile\Profile\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Abhinaba\Desktop\Profile\Profile\obj\Debug\Profile.csprojResolveAssemblyReference.cache
+C:\Users\Abhinaba\Desktop\Profile\Profile\obj\Debug\Profile.dll
+C:\Users\Abhinaba\Desktop\Profile\Profile\obj\Debug\Profile.pdb
